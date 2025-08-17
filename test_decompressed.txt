@@ -1,0 +1,5 @@
+This is a test file for Huffman compression algorithm.
+Huffman coding is a lossless data compression algorithm.
+The algorithm uses a variable-length code table for encoding.
+Characters that appear more frequently get shorter codes.
+This results in optimal prefix codes and efficient compression!
